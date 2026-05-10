@@ -2,7 +2,7 @@
 
 ## Acknowledgments  
 * Dataset provided by Mateusz Buda and colleagues via The Cancer Imaging Archive (TCIA).
-* Architecture inspired by "Attention U-Net: Learning Where to Look for the Pancreas" (Oktay et al., 2018).
+* Architecture inspired by "Attention U-Net: Learning Where to Look for the Pancreas" (Oktay et al., 2018). https://arxiv.org/abs/1804.03999
 
 [paper-link]: https://arxiv.org/abs/1804.03999
   
