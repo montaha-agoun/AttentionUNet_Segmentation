@@ -1,5 +1,7 @@
 # AttentionUNet_Segmentation
 
+This project performs binary segmentation of low-grade glioma (LGG) tumors from FLAIR MRI scans using the LGG MRI Segmentation dataset.
+
 ## Acknowledgments  
 * Dataset provided by Mateusz Buda and colleagues via The Cancer Imaging Archive (TCIA).
 * Architecture inspired by "Attention U-Net: Learning Where to Look for the Pancreas" (Oktay et al., 2018). https://arxiv.org/abs/1804.03999
