@@ -1,6 +1,7 @@
 # AttentionUNet_Segmentation
 
 This project performs binary segmentation of low-grade glioma (LGG) tumors from FLAIR MRI scans using the LGG MRI Segmentation dataset.
+Model available on: [SisyphussDEBUG/AttentionUNet_Segmentation](https://huggingface.co/SisyphussDEBUG/AttentionUNet_Segmentation/)
 
 ## Acknowledgments  
 * Dataset provided by Mateusz Buda and colleagues via The Cancer Imaging Archive (TCIA).
@@ -18,3 +19,5 @@ The model implements the Attention Gate mechanism proposed by Oktay et al. (2018
  * Loss   : 0.7589
  * Dice   : 0.9023
  * IoU    : 0.8736
+<img width="2003" height="3936" alt="predictions" src="https://github.com/user-attachments/assets/20e7b740-8c61-4970-ba12-afe58157e1e7" />
+<img width="2305" height="594" alt="ProbaHetmap" src="https://github.com/user-attachments/assets/681d44d1-ed56-4c30-8876-24f45e1926f5" />
